@@ -116,8 +116,8 @@ class App(tk.Tk):
         #  insert the hashed values into the Text widget
         hash_text.insert(tk.END, f"SHA-1: {hashed_value}\nMD5: {hash_md5}")
     def update_appendixK(self):
-        #url="https://www.dps.texas.gov/administration/crime_records/docs/cjis/v18offenseCodes.xls"
-        url="https://www.dps.texas.gov/administration/crime_records/docs/cjis/v19offensecodes.xls"
+        url="https://www.dps.texas.gov/administration/crime_records/docs/cjis/v18offenseCodes.xls"
+        #url="https://www.dps.texas.gov/administration/crime_records/docs/cjis/v19offensecodes.xls"
         filename="appendixk.xls" 
         urllib.request.urlretrieve(url,filename)
         
