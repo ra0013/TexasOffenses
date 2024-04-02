@@ -1,6 +1,5 @@
 # TexasOffensesOnLine
-This program does not do your job for you.  This program only brings two sources of information together
-to help you do your job a little more effectively.  
+
 
 When you download the TOOL.exe file (Texas Offenses OnLine), store it in a folder where you know you can locate it.
 Using the file menu, choose "Update Appendix K" and the source file that is needed will be downloaded.
